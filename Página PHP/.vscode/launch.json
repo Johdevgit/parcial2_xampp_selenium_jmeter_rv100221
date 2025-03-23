@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run pytest",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Test selenium/test_login.py",  // Ruta a tu archivo de prueba
+            "args": ["-s"],  // La opción -s para permitir que se muestren los mensajes de print de pytest
+            "console": "integratedTerminal"  // Esto asegura que la salida se vea en la terminal integrada
+        }
+    ]
+}
