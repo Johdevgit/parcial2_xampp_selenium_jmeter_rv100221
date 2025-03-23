@@ -1,0 +1,758 @@
+2025-03-23 01:44:31,049 - Iniciando el navegador y configurando el driver...
+2025-03-23 01:44:36,620 - El script de prueba ha comenzado.
+2025-03-23 01:44:36,621 - Ejecutando prueba 1/10...
+2025-03-23 01:44:36,734 - Página cargada para prueba 1
+2025-03-23 01:44:37,902 - Datos enviados en la prueba 1
+2025-03-23 01:44:38,903 - Prueba 1 completada con éxito.
+2025-03-23 01:44:38,903 - Ejecutando prueba 2/10...
+2025-03-23 01:44:38,934 - Página cargada para prueba 2
+2025-03-23 01:44:39,996 - Datos enviados en la prueba 2
+2025-03-23 01:44:40,997 - Prueba 2 completada con éxito.
+2025-03-23 01:44:40,998 - Ejecutando prueba 3/10...
+2025-03-23 01:44:41,020 - Página cargada para prueba 3
+2025-03-23 01:44:42,081 - Datos enviados en la prueba 3
+2025-03-23 01:44:43,082 - Prueba 3 completada con éxito.
+2025-03-23 01:44:43,082 - Ejecutando prueba 4/10...
+2025-03-23 01:44:43,108 - Página cargada para prueba 4
+2025-03-23 01:44:44,166 - Datos enviados en la prueba 4
+2025-03-23 01:44:45,166 - Prueba 4 completada con éxito.
+2025-03-23 01:44:45,166 - Ejecutando prueba 5/10...
+2025-03-23 01:44:45,189 - Página cargada para prueba 5
+2025-03-23 01:44:46,256 - Datos enviados en la prueba 5
+2025-03-23 01:44:47,257 - Prueba 5 completada con éxito.
+2025-03-23 01:44:47,257 - Ejecutando prueba 6/10...
+2025-03-23 01:44:47,278 - Página cargada para prueba 6
+2025-03-23 01:44:48,356 - Datos enviados en la prueba 6
+2025-03-23 01:44:49,356 - Prueba 6 completada con éxito.
+2025-03-23 01:44:49,356 - Ejecutando prueba 7/10...
+2025-03-23 01:44:49,377 - Página cargada para prueba 7
+2025-03-23 01:44:50,458 - Datos enviados en la prueba 7
+2025-03-23 01:44:51,458 - Prueba 7 completada con éxito.
+2025-03-23 01:44:51,458 - Ejecutando prueba 8/10...
+2025-03-23 01:44:51,478 - Página cargada para prueba 8
+2025-03-23 01:44:52,529 - Datos enviados en la prueba 8
+2025-03-23 01:44:53,530 - Prueba 8 completada con éxito.
+2025-03-23 01:44:53,530 - Ejecutando prueba 9/10...
+2025-03-23 01:44:53,553 - Página cargada para prueba 9
+2025-03-23 01:44:54,631 - Datos enviados en la prueba 9
+2025-03-23 01:44:55,632 - Prueba 9 completada con éxito.
+2025-03-23 01:44:55,632 - Ejecutando prueba 10/10...
+2025-03-23 01:44:55,651 - Página cargada para prueba 10
+2025-03-23 01:44:56,705 - Datos enviados en la prueba 10
+2025-03-23 01:44:57,705 - Prueba 10 completada con éxito.
+2025-03-23 01:44:57,705 - Ejecutando prueba 11/10...
+2025-03-23 01:44:57,725 - Página cargada para prueba 11
+2025-03-23 01:44:58,798 - Datos enviados en la prueba 11
+2025-03-23 01:44:59,799 - Prueba 11 completada con éxito.
+2025-03-23 01:44:59,799 - Ejecutando prueba 12/10...
+2025-03-23 01:44:59,820 - Página cargada para prueba 12
+2025-03-23 01:45:00,877 - Datos enviados en la prueba 12
+2025-03-23 01:45:01,877 - Prueba 12 completada con éxito.
+2025-03-23 01:45:01,878 - Ejecutando prueba 13/10...
+2025-03-23 01:45:01,896 - Página cargada para prueba 13
+2025-03-23 01:45:02,959 - Datos enviados en la prueba 13
+2025-03-23 01:45:03,959 - Prueba 13 completada con éxito.
+2025-03-23 01:45:03,959 - Ejecutando prueba 14/10...
+2025-03-23 01:45:03,982 - Página cargada para prueba 14
+2025-03-23 01:45:05,036 - Datos enviados en la prueba 14
+2025-03-23 01:45:06,037 - Prueba 14 completada con éxito.
+2025-03-23 01:45:06,037 - Ejecutando prueba 15/10...
+2025-03-23 01:45:06,056 - Página cargada para prueba 15
+2025-03-23 01:45:07,114 - Datos enviados en la prueba 15
+2025-03-23 01:45:08,114 - Prueba 15 completada con éxito.
+2025-03-23 01:45:08,114 - Ejecutando prueba 16/10...
+2025-03-23 01:45:08,134 - Página cargada para prueba 16
+2025-03-23 01:45:09,210 - Datos enviados en la prueba 16
+2025-03-23 01:45:10,211 - Prueba 16 completada con éxito.
+2025-03-23 01:45:10,211 - Ejecutando prueba 17/10...
+2025-03-23 01:45:10,229 - Página cargada para prueba 17
+2025-03-23 01:45:11,295 - Datos enviados en la prueba 17
+2025-03-23 01:45:12,296 - Prueba 17 completada con éxito.
+2025-03-23 01:45:12,297 - Ejecutando prueba 18/10...
+2025-03-23 01:45:12,319 - Página cargada para prueba 18
+2025-03-23 01:45:13,389 - Datos enviados en la prueba 18
+2025-03-23 01:45:14,389 - Prueba 18 completada con éxito.
+2025-03-23 01:45:14,389 - Ejecutando prueba 19/10...
+2025-03-23 01:45:14,414 - Página cargada para prueba 19
+2025-03-23 01:45:15,468 - Datos enviados en la prueba 19
+2025-03-23 01:45:16,469 - Prueba 19 completada con éxito.
+2025-03-23 01:45:16,469 - Ejecutando prueba 20/10...
+2025-03-23 01:45:16,486 - Página cargada para prueba 20
+2025-03-23 01:45:17,540 - Datos enviados en la prueba 20
+2025-03-23 01:45:18,541 - Prueba 20 completada con éxito.
+2025-03-23 01:45:18,541 - Ejecutando prueba 21/10...
+2025-03-23 01:45:18,560 - Página cargada para prueba 21
+2025-03-23 01:45:19,615 - Datos enviados en la prueba 21
+2025-03-23 01:45:20,615 - Prueba 21 completada con éxito.
+2025-03-23 01:45:20,615 - Ejecutando prueba 22/10...
+2025-03-23 01:45:20,634 - Página cargada para prueba 22
+2025-03-23 01:45:21,694 - Datos enviados en la prueba 22
+2025-03-23 01:45:22,694 - Prueba 22 completada con éxito.
+2025-03-23 01:45:22,695 - Ejecutando prueba 23/10...
+2025-03-23 01:45:22,713 - Página cargada para prueba 23
+2025-03-23 01:45:23,794 - Datos enviados en la prueba 23
+2025-03-23 01:45:24,795 - Prueba 23 completada con éxito.
+2025-03-23 01:45:24,795 - Ejecutando prueba 24/10...
+2025-03-23 01:45:24,819 - Página cargada para prueba 24
+2025-03-23 01:45:25,867 - Datos enviados en la prueba 24
+2025-03-23 01:45:26,868 - Prueba 24 completada con éxito.
+2025-03-23 01:45:26,868 - Ejecutando prueba 25/10...
+2025-03-23 01:45:26,890 - Página cargada para prueba 25
+2025-03-23 01:45:27,944 - Datos enviados en la prueba 25
+2025-03-23 01:45:28,945 - Prueba 25 completada con éxito.
+2025-03-23 01:45:28,945 - Ejecutando prueba 26/10...
+2025-03-23 01:45:28,964 - Página cargada para prueba 26
+2025-03-23 01:45:30,012 - Datos enviados en la prueba 26
+2025-03-23 01:45:31,013 - Prueba 26 completada con éxito.
+2025-03-23 01:45:31,013 - Ejecutando prueba 27/10...
+2025-03-23 01:45:31,032 - Página cargada para prueba 27
+2025-03-23 01:45:32,087 - Datos enviados en la prueba 27
+2025-03-23 01:45:33,087 - Prueba 27 completada con éxito.
+2025-03-23 01:45:33,087 - Ejecutando prueba 28/10...
+2025-03-23 01:45:33,106 - Página cargada para prueba 28
+2025-03-23 01:45:34,180 - Datos enviados en la prueba 28
+2025-03-23 01:45:35,181 - Prueba 28 completada con éxito.
+2025-03-23 01:45:35,181 - Ejecutando prueba 29/10...
+2025-03-23 01:45:35,200 - Página cargada para prueba 29
+2025-03-23 01:45:36,267 - Datos enviados en la prueba 29
+2025-03-23 01:45:37,268 - Prueba 29 completada con éxito.
+2025-03-23 01:45:37,268 - Ejecutando prueba 30/10...
+2025-03-23 01:45:37,289 - Página cargada para prueba 30
+2025-03-23 01:45:38,347 - Datos enviados en la prueba 30
+2025-03-23 01:45:39,348 - Prueba 30 completada con éxito.
+2025-03-23 01:45:39,348 - Ejecutando prueba 31/10...
+2025-03-23 01:45:39,372 - Página cargada para prueba 31
+2025-03-23 01:45:40,420 - Datos enviados en la prueba 31
+2025-03-23 01:45:41,421 - Prueba 31 completada con éxito.
+2025-03-23 01:45:41,421 - Ejecutando prueba 32/10...
+2025-03-23 01:45:41,442 - Página cargada para prueba 32
+2025-03-23 01:45:42,518 - Datos enviados en la prueba 32
+2025-03-23 01:45:43,518 - Prueba 32 completada con éxito.
+2025-03-23 01:45:43,518 - Ejecutando prueba 33/10...
+2025-03-23 01:45:43,538 - Página cargada para prueba 33
+2025-03-23 01:45:44,625 - Datos enviados en la prueba 33
+2025-03-23 01:45:45,626 - Prueba 33 completada con éxito.
+2025-03-23 01:45:45,626 - Ejecutando prueba 34/10...
+2025-03-23 01:45:45,651 - Página cargada para prueba 34
+2025-03-23 01:45:46,712 - Datos enviados en la prueba 34
+2025-03-23 01:45:47,713 - Prueba 34 completada con éxito.
+2025-03-23 01:45:47,713 - Ejecutando prueba 35/10...
+2025-03-23 01:45:47,733 - Página cargada para prueba 35
+2025-03-23 01:45:48,797 - Datos enviados en la prueba 35
+2025-03-23 01:45:49,798 - Prueba 35 completada con éxito.
+2025-03-23 01:45:49,798 - Ejecutando prueba 36/10...
+2025-03-23 01:45:49,819 - Página cargada para prueba 36
+2025-03-23 01:45:50,892 - Datos enviados en la prueba 36
+2025-03-23 01:45:51,892 - Prueba 36 completada con éxito.
+2025-03-23 01:45:51,892 - Ejecutando prueba 37/10...
+2025-03-23 01:45:51,913 - Página cargada para prueba 37
+2025-03-23 01:45:52,975 - Datos enviados en la prueba 37
+2025-03-23 01:45:53,976 - Prueba 37 completada con éxito.
+2025-03-23 01:45:53,976 - Ejecutando prueba 38/10...
+2025-03-23 01:45:53,993 - Página cargada para prueba 38
+2025-03-23 01:45:55,048 - Datos enviados en la prueba 38
+2025-03-23 01:45:56,049 - Prueba 38 completada con éxito.
+2025-03-23 01:45:56,049 - Ejecutando prueba 39/10...
+2025-03-23 01:45:56,071 - Página cargada para prueba 39
+2025-03-23 01:45:57,129 - Datos enviados en la prueba 39
+2025-03-23 01:45:58,129 - Prueba 39 completada con éxito.
+2025-03-23 01:45:58,129 - Ejecutando prueba 40/10...
+2025-03-23 01:45:58,149 - Página cargada para prueba 40
+2025-03-23 01:45:59,223 - Datos enviados en la prueba 40
+2025-03-23 01:46:00,223 - Prueba 40 completada con éxito.
+2025-03-23 01:46:00,223 - Ejecutando prueba 41/10...
+2025-03-23 01:46:00,243 - Página cargada para prueba 41
+2025-03-23 01:46:01,301 - Datos enviados en la prueba 41
+2025-03-23 01:46:02,302 - Prueba 41 completada con éxito.
+2025-03-23 01:46:02,302 - Ejecutando prueba 42/10...
+2025-03-23 01:46:02,322 - Página cargada para prueba 42
+2025-03-23 01:46:03,376 - Datos enviados en la prueba 42
+2025-03-23 01:46:04,376 - Prueba 42 completada con éxito.
+2025-03-23 01:46:04,376 - Ejecutando prueba 43/10...
+2025-03-23 01:46:04,394 - Página cargada para prueba 43
+2025-03-23 01:46:05,465 - Datos enviados en la prueba 43
+2025-03-23 01:46:06,465 - Prueba 43 completada con éxito.
+2025-03-23 01:46:06,465 - Ejecutando prueba 44/10...
+2025-03-23 01:46:06,486 - Página cargada para prueba 44
+2025-03-23 01:46:07,551 - Datos enviados en la prueba 44
+2025-03-23 01:46:08,551 - Prueba 44 completada con éxito.
+2025-03-23 01:46:08,552 - Ejecutando prueba 45/10...
+2025-03-23 01:46:08,571 - Página cargada para prueba 45
+2025-03-23 01:46:09,643 - Datos enviados en la prueba 45
+2025-03-23 01:46:10,644 - Prueba 45 completada con éxito.
+2025-03-23 01:46:10,644 - Ejecutando prueba 46/10...
+2025-03-23 01:46:10,675 - Página cargada para prueba 46
+2025-03-23 01:46:11,755 - Datos enviados en la prueba 46
+2025-03-23 01:46:12,755 - Prueba 46 completada con éxito.
+2025-03-23 01:46:12,755 - Ejecutando prueba 47/10...
+2025-03-23 01:46:12,782 - Página cargada para prueba 47
+2025-03-23 01:46:13,851 - Datos enviados en la prueba 47
+2025-03-23 01:46:14,852 - Prueba 47 completada con éxito.
+2025-03-23 01:46:14,852 - Ejecutando prueba 48/10...
+2025-03-23 01:46:14,872 - Página cargada para prueba 48
+2025-03-23 01:46:15,923 - Datos enviados en la prueba 48
+2025-03-23 01:46:16,923 - Prueba 48 completada con éxito.
+2025-03-23 01:46:16,923 - Ejecutando prueba 49/10...
+2025-03-23 01:46:16,943 - Página cargada para prueba 49
+2025-03-23 01:46:17,997 - Datos enviados en la prueba 49
+2025-03-23 01:46:18,998 - Prueba 49 completada con éxito.
+2025-03-23 01:46:18,998 - Ejecutando prueba 50/10...
+2025-03-23 01:46:19,016 - Página cargada para prueba 50
+2025-03-23 01:46:20,068 - Datos enviados en la prueba 50
+2025-03-23 01:46:21,069 - Prueba 50 completada con éxito.
+2025-03-23 01:46:21,070 - Ejecutando prueba 51/10...
+2025-03-23 01:46:21,088 - Página cargada para prueba 51
+2025-03-23 01:46:22,159 - Datos enviados en la prueba 51
+2025-03-23 01:46:23,159 - Prueba 51 completada con éxito.
+2025-03-23 01:46:23,159 - Ejecutando prueba 52/10...
+2025-03-23 01:46:23,183 - Página cargada para prueba 52
+2025-03-23 01:46:24,251 - Datos enviados en la prueba 52
+2025-03-23 01:46:25,251 - Prueba 52 completada con éxito.
+2025-03-23 01:46:25,252 - Ejecutando prueba 53/10...
+2025-03-23 01:46:25,290 - Error en la prueba 53: Message: Failed to decode response from marionette
+
+2025-03-23 01:46:25,291 - Ejecutando prueba 54/10...
+2025-03-23 01:46:25,291 - Error en la prueba 54: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,291 - Ejecutando prueba 55/10...
+2025-03-23 01:46:25,292 - Error en la prueba 55: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,292 - Ejecutando prueba 56/10...
+2025-03-23 01:46:25,292 - Error en la prueba 56: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,292 - Ejecutando prueba 57/10...
+2025-03-23 01:46:25,293 - Error en la prueba 57: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,293 - Ejecutando prueba 58/10...
+2025-03-23 01:46:25,293 - Error en la prueba 58: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,293 - Ejecutando prueba 59/10...
+2025-03-23 01:46:25,294 - Error en la prueba 59: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,294 - Ejecutando prueba 60/10...
+2025-03-23 01:46:25,294 - Error en la prueba 60: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,294 - Ejecutando prueba 61/10...
+2025-03-23 01:46:25,295 - Error en la prueba 61: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,295 - Ejecutando prueba 62/10...
+2025-03-23 01:46:25,295 - Error en la prueba 62: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,295 - Ejecutando prueba 63/10...
+2025-03-23 01:46:25,296 - Error en la prueba 63: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,296 - Ejecutando prueba 64/10...
+2025-03-23 01:46:25,296 - Error en la prueba 64: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,296 - Ejecutando prueba 65/10...
+2025-03-23 01:46:25,297 - Error en la prueba 65: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,297 - Ejecutando prueba 66/10...
+2025-03-23 01:46:25,297 - Error en la prueba 66: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,297 - Ejecutando prueba 67/10...
+2025-03-23 01:46:25,298 - Error en la prueba 67: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,298 - Ejecutando prueba 68/10...
+2025-03-23 01:46:25,299 - Error en la prueba 68: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,299 - Ejecutando prueba 69/10...
+2025-03-23 01:46:25,300 - Error en la prueba 69: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,300 - Ejecutando prueba 70/10...
+2025-03-23 01:46:25,300 - Error en la prueba 70: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,300 - Ejecutando prueba 71/10...
+2025-03-23 01:46:25,301 - Error en la prueba 71: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,301 - Ejecutando prueba 72/10...
+2025-03-23 01:46:25,301 - Error en la prueba 72: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,301 - Ejecutando prueba 73/10...
+2025-03-23 01:46:25,302 - Error en la prueba 73: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,302 - Ejecutando prueba 74/10...
+2025-03-23 01:46:25,302 - Error en la prueba 74: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,302 - Ejecutando prueba 75/10...
+2025-03-23 01:46:25,303 - Error en la prueba 75: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,303 - Ejecutando prueba 76/10...
+2025-03-23 01:46:25,303 - Error en la prueba 76: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,303 - Ejecutando prueba 77/10...
+2025-03-23 01:46:25,304 - Error en la prueba 77: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,304 - Ejecutando prueba 78/10...
+2025-03-23 01:46:25,304 - Error en la prueba 78: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,304 - Ejecutando prueba 79/10...
+2025-03-23 01:46:25,305 - Error en la prueba 79: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,305 - Ejecutando prueba 80/10...
+2025-03-23 01:46:25,305 - Error en la prueba 80: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,305 - Ejecutando prueba 81/10...
+2025-03-23 01:46:25,306 - Error en la prueba 81: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,306 - Ejecutando prueba 82/10...
+2025-03-23 01:46:25,306 - Error en la prueba 82: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,306 - Ejecutando prueba 83/10...
+2025-03-23 01:46:25,307 - Error en la prueba 83: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,307 - Ejecutando prueba 84/10...
+2025-03-23 01:46:25,307 - Error en la prueba 84: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,307 - Ejecutando prueba 85/10...
+2025-03-23 01:46:25,308 - Error en la prueba 85: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,308 - Ejecutando prueba 86/10...
+2025-03-23 01:46:25,308 - Error en la prueba 86: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,308 - Ejecutando prueba 87/10...
+2025-03-23 01:46:25,308 - Error en la prueba 87: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,308 - Ejecutando prueba 88/10...
+2025-03-23 01:46:25,309 - Error en la prueba 88: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,309 - Ejecutando prueba 89/10...
+2025-03-23 01:46:25,310 - Error en la prueba 89: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,310 - Ejecutando prueba 90/10...
+2025-03-23 01:46:25,311 - Error en la prueba 90: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,311 - Ejecutando prueba 91/10...
+2025-03-23 01:46:25,311 - Error en la prueba 91: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,311 - Ejecutando prueba 92/10...
+2025-03-23 01:46:25,312 - Error en la prueba 92: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,312 - Ejecutando prueba 93/10...
+2025-03-23 01:46:25,312 - Error en la prueba 93: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,312 - Ejecutando prueba 94/10...
+2025-03-23 01:46:25,313 - Error en la prueba 94: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,313 - Ejecutando prueba 95/10...
+2025-03-23 01:46:25,313 - Error en la prueba 95: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,314 - Ejecutando prueba 96/10...
+2025-03-23 01:46:25,314 - Error en la prueba 96: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,314 - Ejecutando prueba 97/10...
+2025-03-23 01:46:25,315 - Error en la prueba 97: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,315 - Ejecutando prueba 98/10...
+2025-03-23 01:46:25,316 - Error en la prueba 98: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,316 - Ejecutando prueba 99/10...
+2025-03-23 01:46:25,316 - Error en la prueba 99: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,316 - Ejecutando prueba 100/10...
+2025-03-23 01:46:25,317 - Error en la prueba 100: Message: Tried to run command without establishing a connection
+
+2025-03-23 01:46:25,317 - Cerrando el navegador...
+2025-03-23 01:56:55,959 - Iniciando el navegador y configurando el driver...
+2025-03-23 01:57:02,718 - El script de prueba ha comenzado.
+2025-03-23 01:57:02,718 - Ejecutando prueba 1/10...
+2025-03-23 01:57:02,838 - Página cargada para prueba 1
+2025-03-23 01:57:04,090 - Datos enviados en la prueba 1
+2025-03-23 01:57:05,091 - Prueba 1 completada con éxito.
+2025-03-23 01:57:05,091 - Ejecutando prueba 2/10...
+2025-03-23 01:57:05,124 - Página cargada para prueba 2
+2025-03-23 01:57:06,176 - Datos enviados en la prueba 2
+2025-03-23 01:57:07,177 - Prueba 2 completada con éxito.
+2025-03-23 01:57:07,177 - Ejecutando prueba 3/10...
+2025-03-23 01:57:07,262 - Página cargada para prueba 3
+2025-03-23 01:57:08,314 - Datos enviados en la prueba 3
+2025-03-23 01:57:09,315 - Prueba 3 completada con éxito.
+2025-03-23 01:57:09,315 - Ejecutando prueba 4/10...
+2025-03-23 01:57:09,340 - Página cargada para prueba 4
+2025-03-23 01:57:10,394 - Datos enviados en la prueba 4
+2025-03-23 01:57:11,395 - Prueba 4 completada con éxito.
+2025-03-23 01:57:11,395 - Ejecutando prueba 5/10...
+2025-03-23 01:57:11,415 - Página cargada para prueba 5
+2025-03-23 01:57:12,478 - Datos enviados en la prueba 5
+2025-03-23 01:57:13,478 - Prueba 5 completada con éxito.
+2025-03-23 01:57:13,478 - Ejecutando prueba 6/10...
+2025-03-23 01:57:13,499 - Página cargada para prueba 6
+2025-03-23 01:57:14,586 - Datos enviados en la prueba 6
+2025-03-23 01:57:15,586 - Prueba 6 completada con éxito.
+2025-03-23 01:57:15,586 - Ejecutando prueba 7/10...
+2025-03-23 01:57:15,604 - Página cargada para prueba 7
+2025-03-23 01:57:16,670 - Datos enviados en la prueba 7
+2025-03-23 01:57:17,670 - Prueba 7 completada con éxito.
+2025-03-23 01:57:17,670 - Ejecutando prueba 8/10...
+2025-03-23 01:57:17,690 - Página cargada para prueba 8
+2025-03-23 01:57:18,737 - Datos enviados en la prueba 8
+2025-03-23 01:57:19,739 - Prueba 8 completada con éxito.
+2025-03-23 01:57:19,739 - Ejecutando prueba 9/10...
+2025-03-23 01:57:19,754 - Página cargada para prueba 9
+2025-03-23 01:57:20,808 - Datos enviados en la prueba 9
+2025-03-23 01:57:21,809 - Prueba 9 completada con éxito.
+2025-03-23 01:57:21,809 - Ejecutando prueba 10/10...
+2025-03-23 01:57:21,829 - Página cargada para prueba 10
+2025-03-23 01:57:22,881 - Datos enviados en la prueba 10
+2025-03-23 01:57:23,882 - Prueba 10 completada con éxito.
+2025-03-23 01:57:23,882 - Ejecutando prueba 11/10...
+2025-03-23 01:57:23,899 - Página cargada para prueba 11
+2025-03-23 01:57:24,960 - Datos enviados en la prueba 11
+2025-03-23 01:57:25,961 - Prueba 11 completada con éxito.
+2025-03-23 01:57:25,961 - Ejecutando prueba 12/10...
+2025-03-23 01:57:25,978 - Página cargada para prueba 12
+2025-03-23 01:57:27,032 - Datos enviados en la prueba 12
+2025-03-23 01:57:28,032 - Prueba 12 completada con éxito.
+2025-03-23 01:57:28,032 - Ejecutando prueba 13/10...
+2025-03-23 01:57:28,052 - Página cargada para prueba 13
+2025-03-23 01:57:29,105 - Datos enviados en la prueba 13
+2025-03-23 01:57:30,106 - Prueba 13 completada con éxito.
+2025-03-23 01:57:30,106 - Ejecutando prueba 14/10...
+2025-03-23 01:57:30,126 - Página cargada para prueba 14
+2025-03-23 01:57:31,182 - Datos enviados en la prueba 14
+2025-03-23 01:57:32,183 - Prueba 14 completada con éxito.
+2025-03-23 01:57:32,183 - Ejecutando prueba 15/10...
+2025-03-23 01:57:32,202 - Página cargada para prueba 15
+2025-03-23 01:57:33,257 - Datos enviados en la prueba 15
+2025-03-23 01:57:34,258 - Prueba 15 completada con éxito.
+2025-03-23 01:57:34,258 - Ejecutando prueba 16/10...
+2025-03-23 01:57:34,274 - Página cargada para prueba 16
+2025-03-23 01:57:35,326 - Datos enviados en la prueba 16
+2025-03-23 01:57:36,327 - Prueba 16 completada con éxito.
+2025-03-23 01:57:36,327 - Ejecutando prueba 17/10...
+2025-03-23 01:57:36,344 - Página cargada para prueba 17
+2025-03-23 01:57:37,400 - Datos enviados en la prueba 17
+2025-03-23 01:57:38,400 - Prueba 17 completada con éxito.
+2025-03-23 01:57:38,401 - Ejecutando prueba 18/10...
+2025-03-23 01:57:38,420 - Página cargada para prueba 18
+2025-03-23 01:57:39,471 - Datos enviados en la prueba 18
+2025-03-23 01:57:40,472 - Prueba 18 completada con éxito.
+2025-03-23 01:57:40,472 - Ejecutando prueba 19/10...
+2025-03-23 01:57:40,492 - Página cargada para prueba 19
+2025-03-23 01:57:41,544 - Datos enviados en la prueba 19
+2025-03-23 01:57:42,545 - Prueba 19 completada con éxito.
+2025-03-23 01:57:42,545 - Ejecutando prueba 20/10...
+2025-03-23 01:57:42,562 - Página cargada para prueba 20
+2025-03-23 01:57:43,611 - Datos enviados en la prueba 20
+2025-03-23 01:57:44,612 - Prueba 20 completada con éxito.
+2025-03-23 01:57:44,612 - Ejecutando prueba 21/10...
+2025-03-23 01:57:44,636 - Página cargada para prueba 21
+2025-03-23 01:57:45,714 - Datos enviados en la prueba 21
+2025-03-23 01:57:46,715 - Prueba 21 completada con éxito.
+2025-03-23 01:57:46,715 - Ejecutando prueba 22/10...
+2025-03-23 01:57:46,732 - Página cargada para prueba 22
+2025-03-23 01:57:47,808 - Datos enviados en la prueba 22
+2025-03-23 01:57:48,808 - Prueba 22 completada con éxito.
+2025-03-23 01:57:48,808 - Ejecutando prueba 23/10...
+2025-03-23 01:57:48,837 - Página cargada para prueba 23
+2025-03-23 01:57:49,885 - Datos enviados en la prueba 23
+2025-03-23 01:57:50,886 - Prueba 23 completada con éxito.
+2025-03-23 01:57:50,886 - Ejecutando prueba 24/10...
+2025-03-23 01:57:50,905 - Página cargada para prueba 24
+2025-03-23 01:57:51,957 - Datos enviados en la prueba 24
+2025-03-23 01:57:52,958 - Prueba 24 completada con éxito.
+2025-03-23 01:57:52,958 - Ejecutando prueba 25/10...
+2025-03-23 01:57:52,975 - Página cargada para prueba 25
+2025-03-23 01:57:54,031 - Datos enviados en la prueba 25
+2025-03-23 01:57:55,032 - Prueba 25 completada con éxito.
+2025-03-23 01:57:55,032 - Ejecutando prueba 26/10...
+2025-03-23 01:57:55,051 - Página cargada para prueba 26
+2025-03-23 01:57:56,098 - Datos enviados en la prueba 26
+2025-03-23 01:57:57,098 - Prueba 26 completada con éxito.
+2025-03-23 01:57:57,099 - Ejecutando prueba 27/10...
+2025-03-23 01:57:57,120 - Página cargada para prueba 27
+2025-03-23 01:57:58,177 - Datos enviados en la prueba 27
+2025-03-23 01:57:59,178 - Prueba 27 completada con éxito.
+2025-03-23 01:57:59,178 - Ejecutando prueba 28/10...
+2025-03-23 01:57:59,194 - Página cargada para prueba 28
+2025-03-23 01:58:00,258 - Datos enviados en la prueba 28
+2025-03-23 01:58:01,259 - Prueba 28 completada con éxito.
+2025-03-23 01:58:01,259 - Ejecutando prueba 29/10...
+2025-03-23 01:58:01,327 - Página cargada para prueba 29
+2025-03-23 01:58:02,475 - Datos enviados en la prueba 29
+2025-03-23 01:58:03,476 - Prueba 29 completada con éxito.
+2025-03-23 01:58:03,476 - Ejecutando prueba 30/10...
+2025-03-23 01:58:03,495 - Página cargada para prueba 30
+2025-03-23 01:58:04,545 - Datos enviados en la prueba 30
+2025-03-23 01:58:05,546 - Prueba 30 completada con éxito.
+2025-03-23 01:58:05,546 - Ejecutando prueba 31/10...
+2025-03-23 01:58:05,565 - Página cargada para prueba 31
+2025-03-23 01:58:06,622 - Datos enviados en la prueba 31
+2025-03-23 01:58:07,622 - Prueba 31 completada con éxito.
+2025-03-23 01:58:07,622 - Ejecutando prueba 32/10...
+2025-03-23 01:58:07,640 - Página cargada para prueba 32
+2025-03-23 01:58:08,698 - Datos enviados en la prueba 32
+2025-03-23 01:58:09,698 - Prueba 32 completada con éxito.
+2025-03-23 01:58:09,698 - Ejecutando prueba 33/10...
+2025-03-23 01:58:09,716 - Página cargada para prueba 33
+2025-03-23 01:58:10,771 - Datos enviados en la prueba 33
+2025-03-23 01:58:11,771 - Prueba 33 completada con éxito.
+2025-03-23 01:58:11,771 - Ejecutando prueba 34/10...
+2025-03-23 01:58:11,792 - Página cargada para prueba 34
+2025-03-23 01:58:12,847 - Datos enviados en la prueba 34
+2025-03-23 01:58:13,847 - Prueba 34 completada con éxito.
+2025-03-23 01:58:13,847 - Ejecutando prueba 35/10...
+2025-03-23 01:58:13,864 - Página cargada para prueba 35
+2025-03-23 01:58:14,918 - Datos enviados en la prueba 35
+2025-03-23 01:58:15,919 - Prueba 35 completada con éxito.
+2025-03-23 01:58:15,919 - Ejecutando prueba 36/10...
+2025-03-23 01:58:15,938 - Página cargada para prueba 36
+2025-03-23 01:58:16,993 - Datos enviados en la prueba 36
+2025-03-23 01:58:17,993 - Prueba 36 completada con éxito.
+2025-03-23 01:58:17,993 - Ejecutando prueba 37/10...
+2025-03-23 01:58:18,011 - Página cargada para prueba 37
+2025-03-23 01:58:19,073 - Datos enviados en la prueba 37
+2025-03-23 01:58:20,074 - Prueba 37 completada con éxito.
+2025-03-23 01:58:20,074 - Ejecutando prueba 38/10...
+2025-03-23 01:58:20,091 - Página cargada para prueba 38
+2025-03-23 01:58:21,146 - Datos enviados en la prueba 38
+2025-03-23 01:58:22,147 - Prueba 38 completada con éxito.
+2025-03-23 01:58:22,147 - Ejecutando prueba 39/10...
+2025-03-23 01:58:22,168 - Página cargada para prueba 39
+2025-03-23 01:58:23,222 - Datos enviados en la prueba 39
+2025-03-23 01:58:24,223 - Prueba 39 completada con éxito.
+2025-03-23 01:58:24,223 - Ejecutando prueba 40/10...
+2025-03-23 01:58:24,240 - Página cargada para prueba 40
+2025-03-23 01:58:25,294 - Datos enviados en la prueba 40
+2025-03-23 01:58:26,295 - Prueba 40 completada con éxito.
+2025-03-23 01:58:26,295 - Ejecutando prueba 41/10...
+2025-03-23 01:58:26,310 - Página cargada para prueba 41
+2025-03-23 01:58:27,361 - Datos enviados en la prueba 41
+2025-03-23 01:58:28,361 - Prueba 41 completada con éxito.
+2025-03-23 01:58:28,361 - Ejecutando prueba 42/10...
+2025-03-23 01:58:28,378 - Página cargada para prueba 42
+2025-03-23 01:58:29,437 - Datos enviados en la prueba 42
+2025-03-23 01:58:30,438 - Prueba 42 completada con éxito.
+2025-03-23 01:58:30,438 - Ejecutando prueba 43/10...
+2025-03-23 01:58:30,455 - Página cargada para prueba 43
+2025-03-23 01:58:31,506 - Datos enviados en la prueba 43
+2025-03-23 01:58:32,506 - Prueba 43 completada con éxito.
+2025-03-23 01:58:32,506 - Ejecutando prueba 44/10...
+2025-03-23 01:58:32,524 - Página cargada para prueba 44
+2025-03-23 01:58:33,576 - Datos enviados en la prueba 44
+2025-03-23 01:58:34,577 - Prueba 44 completada con éxito.
+2025-03-23 01:58:34,577 - Ejecutando prueba 45/10...
+2025-03-23 01:58:34,595 - Página cargada para prueba 45
+2025-03-23 01:58:35,644 - Datos enviados en la prueba 45
+2025-03-23 01:58:36,645 - Prueba 45 completada con éxito.
+2025-03-23 01:58:36,645 - Ejecutando prueba 46/10...
+2025-03-23 01:58:36,666 - Página cargada para prueba 46
+2025-03-23 01:58:37,722 - Datos enviados en la prueba 46
+2025-03-23 01:58:38,722 - Prueba 46 completada con éxito.
+2025-03-23 01:58:38,722 - Ejecutando prueba 47/10...
+2025-03-23 01:58:38,740 - Página cargada para prueba 47
+2025-03-23 01:58:39,790 - Datos enviados en la prueba 47
+2025-03-23 01:58:40,791 - Prueba 47 completada con éxito.
+2025-03-23 01:58:40,791 - Ejecutando prueba 48/10...
+2025-03-23 01:58:40,807 - Página cargada para prueba 48
+2025-03-23 01:58:41,860 - Datos enviados en la prueba 48
+2025-03-23 01:58:42,861 - Prueba 48 completada con éxito.
+2025-03-23 01:58:42,861 - Ejecutando prueba 49/10...
+2025-03-23 01:58:42,880 - Página cargada para prueba 49
+2025-03-23 01:58:43,929 - Datos enviados en la prueba 49
+2025-03-23 01:58:44,930 - Prueba 49 completada con éxito.
+2025-03-23 01:58:44,930 - Ejecutando prueba 50/10...
+2025-03-23 01:58:44,947 - Página cargada para prueba 50
+2025-03-23 01:58:45,995 - Datos enviados en la prueba 50
+2025-03-23 01:58:46,996 - Prueba 50 completada con éxito.
+2025-03-23 01:58:46,997 - Ejecutando prueba 51/10...
+2025-03-23 01:58:47,018 - Página cargada para prueba 51
+2025-03-23 01:58:48,075 - Datos enviados en la prueba 51
+2025-03-23 01:58:49,076 - Prueba 51 completada con éxito.
+2025-03-23 01:58:49,076 - Ejecutando prueba 52/10...
+2025-03-23 01:58:49,095 - Página cargada para prueba 52
+2025-03-23 01:58:50,144 - Datos enviados en la prueba 52
+2025-03-23 01:58:51,145 - Prueba 52 completada con éxito.
+2025-03-23 01:58:51,145 - Ejecutando prueba 53/10...
+2025-03-23 01:58:51,164 - Página cargada para prueba 53
+2025-03-23 01:58:52,218 - Datos enviados en la prueba 53
+2025-03-23 01:58:53,218 - Prueba 53 completada con éxito.
+2025-03-23 01:58:53,219 - Ejecutando prueba 54/10...
+2025-03-23 01:58:53,236 - Página cargada para prueba 54
+2025-03-23 01:58:54,292 - Datos enviados en la prueba 54
+2025-03-23 01:58:55,292 - Prueba 54 completada con éxito.
+2025-03-23 01:58:55,292 - Ejecutando prueba 55/10...
+2025-03-23 01:58:55,314 - Página cargada para prueba 55
+2025-03-23 01:58:56,372 - Datos enviados en la prueba 55
+2025-03-23 01:58:57,372 - Prueba 55 completada con éxito.
+2025-03-23 01:58:57,373 - Ejecutando prueba 56/10...
+2025-03-23 01:58:57,394 - Página cargada para prueba 56
+2025-03-23 01:58:58,442 - Datos enviados en la prueba 56
+2025-03-23 01:58:59,442 - Prueba 56 completada con éxito.
+2025-03-23 01:58:59,443 - Ejecutando prueba 57/10...
+2025-03-23 01:58:59,463 - Página cargada para prueba 57
+2025-03-23 01:59:00,518 - Datos enviados en la prueba 57
+2025-03-23 01:59:01,519 - Prueba 57 completada con éxito.
+2025-03-23 01:59:01,519 - Ejecutando prueba 58/10...
+2025-03-23 01:59:01,535 - Página cargada para prueba 58
+2025-03-23 01:59:02,590 - Datos enviados en la prueba 58
+2025-03-23 01:59:03,591 - Prueba 58 completada con éxito.
+2025-03-23 01:59:03,591 - Ejecutando prueba 59/10...
+2025-03-23 01:59:03,609 - Página cargada para prueba 59
+2025-03-23 01:59:04,661 - Datos enviados en la prueba 59
+2025-03-23 01:59:05,662 - Prueba 59 completada con éxito.
+2025-03-23 01:59:05,662 - Ejecutando prueba 60/10...
+2025-03-23 01:59:05,679 - Página cargada para prueba 60
+2025-03-23 01:59:06,737 - Datos enviados en la prueba 60
+2025-03-23 01:59:07,738 - Prueba 60 completada con éxito.
+2025-03-23 01:59:07,738 - Ejecutando prueba 61/10...
+2025-03-23 01:59:07,756 - Página cargada para prueba 61
+2025-03-23 01:59:08,827 - Datos enviados en la prueba 61
+2025-03-23 01:59:09,827 - Prueba 61 completada con éxito.
+2025-03-23 01:59:09,827 - Ejecutando prueba 62/10...
+2025-03-23 01:59:09,843 - Página cargada para prueba 62
+2025-03-23 01:59:10,897 - Datos enviados en la prueba 62
+2025-03-23 01:59:11,898 - Prueba 62 completada con éxito.
+2025-03-23 01:59:11,898 - Ejecutando prueba 63/10...
+2025-03-23 01:59:11,918 - Página cargada para prueba 63
+2025-03-23 01:59:12,974 - Datos enviados en la prueba 63
+2025-03-23 01:59:13,974 - Prueba 63 completada con éxito.
+2025-03-23 01:59:13,974 - Ejecutando prueba 64/10...
+2025-03-23 01:59:13,993 - Página cargada para prueba 64
+2025-03-23 01:59:15,049 - Datos enviados en la prueba 64
+2025-03-23 01:59:16,050 - Prueba 64 completada con éxito.
+2025-03-23 01:59:16,050 - Ejecutando prueba 65/10...
+2025-03-23 01:59:16,071 - Página cargada para prueba 65
+2025-03-23 01:59:17,125 - Datos enviados en la prueba 65
+2025-03-23 01:59:18,125 - Prueba 65 completada con éxito.
+2025-03-23 01:59:18,125 - Ejecutando prueba 66/10...
+2025-03-23 01:59:18,144 - Página cargada para prueba 66
+2025-03-23 01:59:19,203 - Datos enviados en la prueba 66
+2025-03-23 01:59:20,203 - Prueba 66 completada con éxito.
+2025-03-23 01:59:20,203 - Ejecutando prueba 67/10...
+2025-03-23 01:59:20,221 - Página cargada para prueba 67
+2025-03-23 01:59:21,277 - Datos enviados en la prueba 67
+2025-03-23 01:59:22,278 - Prueba 67 completada con éxito.
+2025-03-23 01:59:22,278 - Ejecutando prueba 68/10...
+2025-03-23 01:59:22,300 - Página cargada para prueba 68
+2025-03-23 01:59:23,356 - Datos enviados en la prueba 68
+2025-03-23 01:59:24,357 - Prueba 68 completada con éxito.
+2025-03-23 01:59:24,357 - Ejecutando prueba 69/10...
+2025-03-23 01:59:24,377 - Página cargada para prueba 69
+2025-03-23 01:59:25,430 - Datos enviados en la prueba 69
+2025-03-23 01:59:26,431 - Prueba 69 completada con éxito.
+2025-03-23 01:59:26,431 - Ejecutando prueba 70/10...
+2025-03-23 01:59:26,446 - Página cargada para prueba 70
+2025-03-23 01:59:27,503 - Datos enviados en la prueba 70
+2025-03-23 01:59:28,503 - Prueba 70 completada con éxito.
+2025-03-23 01:59:28,503 - Ejecutando prueba 71/10...
+2025-03-23 01:59:28,522 - Página cargada para prueba 71
+2025-03-23 01:59:29,572 - Datos enviados en la prueba 71
+2025-03-23 01:59:30,573 - Prueba 71 completada con éxito.
+2025-03-23 01:59:30,573 - Ejecutando prueba 72/10...
+2025-03-23 01:59:30,591 - Página cargada para prueba 72
+2025-03-23 01:59:31,658 - Datos enviados en la prueba 72
+2025-03-23 01:59:32,658 - Prueba 72 completada con éxito.
+2025-03-23 01:59:32,658 - Ejecutando prueba 73/10...
+2025-03-23 01:59:32,676 - Página cargada para prueba 73
+2025-03-23 01:59:33,728 - Datos enviados en la prueba 73
+2025-03-23 01:59:34,729 - Prueba 73 completada con éxito.
+2025-03-23 01:59:34,729 - Ejecutando prueba 74/10...
+2025-03-23 01:59:34,745 - Página cargada para prueba 74
+2025-03-23 01:59:35,826 - Datos enviados en la prueba 74
+2025-03-23 01:59:36,827 - Prueba 74 completada con éxito.
+2025-03-23 01:59:36,827 - Ejecutando prueba 75/10...
+2025-03-23 01:59:36,847 - Página cargada para prueba 75
+2025-03-23 01:59:37,895 - Datos enviados en la prueba 75
+2025-03-23 01:59:38,896 - Prueba 75 completada con éxito.
+2025-03-23 01:59:38,896 - Ejecutando prueba 76/10...
+2025-03-23 01:59:38,914 - Página cargada para prueba 76
+2025-03-23 01:59:39,964 - Datos enviados en la prueba 76
+2025-03-23 01:59:40,965 - Prueba 76 completada con éxito.
+2025-03-23 01:59:40,965 - Ejecutando prueba 77/10...
+2025-03-23 01:59:40,983 - Página cargada para prueba 77
+2025-03-23 01:59:42,033 - Datos enviados en la prueba 77
+2025-03-23 01:59:43,034 - Prueba 77 completada con éxito.
+2025-03-23 01:59:43,034 - Ejecutando prueba 78/10...
+2025-03-23 01:59:43,053 - Página cargada para prueba 78
+2025-03-23 01:59:44,123 - Datos enviados en la prueba 78
+2025-03-23 01:59:45,124 - Prueba 78 completada con éxito.
+2025-03-23 01:59:45,124 - Ejecutando prueba 79/10...
+2025-03-23 01:59:45,142 - Página cargada para prueba 79
+2025-03-23 01:59:46,191 - Datos enviados en la prueba 79
+2025-03-23 01:59:47,191 - Prueba 79 completada con éxito.
+2025-03-23 01:59:47,191 - Ejecutando prueba 80/10...
+2025-03-23 01:59:47,210 - Página cargada para prueba 80
+2025-03-23 01:59:48,259 - Datos enviados en la prueba 80
+2025-03-23 01:59:49,259 - Prueba 80 completada con éxito.
+2025-03-23 01:59:49,259 - Ejecutando prueba 81/10...
+2025-03-23 01:59:49,280 - Página cargada para prueba 81
+2025-03-23 01:59:50,333 - Datos enviados en la prueba 81
+2025-03-23 01:59:51,334 - Prueba 81 completada con éxito.
+2025-03-23 01:59:51,334 - Ejecutando prueba 82/10...
+2025-03-23 01:59:51,349 - Página cargada para prueba 82
+2025-03-23 01:59:52,404 - Datos enviados en la prueba 82
+2025-03-23 01:59:53,404 - Prueba 82 completada con éxito.
+2025-03-23 01:59:53,404 - Ejecutando prueba 83/10...
+2025-03-23 01:59:53,420 - Página cargada para prueba 83
+2025-03-23 01:59:54,472 - Datos enviados en la prueba 83
+2025-03-23 01:59:55,473 - Prueba 83 completada con éxito.
+2025-03-23 01:59:55,473 - Ejecutando prueba 84/10...
+2025-03-23 01:59:55,494 - Página cargada para prueba 84
+2025-03-23 01:59:56,541 - Datos enviados en la prueba 84
+2025-03-23 01:59:57,542 - Prueba 84 completada con éxito.
+2025-03-23 01:59:57,542 - Ejecutando prueba 85/10...
+2025-03-23 01:59:57,561 - Página cargada para prueba 85
+2025-03-23 01:59:58,609 - Datos enviados en la prueba 85
+2025-03-23 01:59:59,609 - Prueba 85 completada con éxito.
+2025-03-23 01:59:59,609 - Ejecutando prueba 86/10...
+2025-03-23 01:59:59,627 - Página cargada para prueba 86
+2025-03-23 02:00:00,675 - Datos enviados en la prueba 86
+2025-03-23 02:00:01,677 - Prueba 86 completada con éxito.
+2025-03-23 02:00:01,677 - Ejecutando prueba 87/10...
+2025-03-23 02:00:01,695 - Página cargada para prueba 87
+2025-03-23 02:00:02,743 - Datos enviados en la prueba 87
+2025-03-23 02:00:03,744 - Prueba 87 completada con éxito.
+2025-03-23 02:00:03,744 - Ejecutando prueba 88/10...
+2025-03-23 02:00:03,765 - Página cargada para prueba 88
+2025-03-23 02:00:04,824 - Datos enviados en la prueba 88
+2025-03-23 02:00:05,824 - Prueba 88 completada con éxito.
+2025-03-23 02:00:05,824 - Ejecutando prueba 89/10...
+2025-03-23 02:00:05,842 - Página cargada para prueba 89
+2025-03-23 02:00:06,911 - Datos enviados en la prueba 89
+2025-03-23 02:00:07,911 - Prueba 89 completada con éxito.
+2025-03-23 02:00:07,911 - Ejecutando prueba 90/10...
+2025-03-23 02:00:07,929 - Página cargada para prueba 90
+2025-03-23 02:00:08,982 - Datos enviados en la prueba 90
+2025-03-23 02:00:09,983 - Prueba 90 completada con éxito.
+2025-03-23 02:00:09,983 - Ejecutando prueba 91/10...
+2025-03-23 02:00:09,998 - Página cargada para prueba 91
+2025-03-23 02:00:11,049 - Datos enviados en la prueba 91
+2025-03-23 02:00:12,050 - Prueba 91 completada con éxito.
+2025-03-23 02:00:12,050 - Ejecutando prueba 92/10...
+2025-03-23 02:00:12,065 - Página cargada para prueba 92
+2025-03-23 02:00:13,117 - Datos enviados en la prueba 92
+2025-03-23 02:00:14,118 - Prueba 92 completada con éxito.
+2025-03-23 02:00:14,118 - Ejecutando prueba 93/10...
+2025-03-23 02:00:14,133 - Página cargada para prueba 93
+2025-03-23 02:00:15,185 - Datos enviados en la prueba 93
+2025-03-23 02:00:16,185 - Prueba 93 completada con éxito.
+2025-03-23 02:00:16,186 - Ejecutando prueba 94/10...
+2025-03-23 02:00:16,201 - Página cargada para prueba 94
+2025-03-23 02:00:17,266 - Datos enviados en la prueba 94
+2025-03-23 02:00:18,267 - Prueba 94 completada con éxito.
+2025-03-23 02:00:18,267 - Ejecutando prueba 95/10...
+2025-03-23 02:00:18,289 - Página cargada para prueba 95
+2025-03-23 02:00:19,348 - Datos enviados en la prueba 95
+2025-03-23 02:00:20,349 - Prueba 95 completada con éxito.
+2025-03-23 02:00:20,349 - Ejecutando prueba 96/10...
+2025-03-23 02:00:20,371 - Página cargada para prueba 96
+2025-03-23 02:00:21,426 - Datos enviados en la prueba 96
+2025-03-23 02:00:22,427 - Prueba 96 completada con éxito.
+2025-03-23 02:00:22,427 - Ejecutando prueba 97/10...
+2025-03-23 02:00:22,444 - Página cargada para prueba 97
+2025-03-23 02:00:23,497 - Datos enviados en la prueba 97
+2025-03-23 02:00:24,497 - Prueba 97 completada con éxito.
+2025-03-23 02:00:24,497 - Ejecutando prueba 98/10...
+2025-03-23 02:00:24,518 - Página cargada para prueba 98
+2025-03-23 02:00:25,599 - Datos enviados en la prueba 98
+2025-03-23 02:00:26,599 - Prueba 98 completada con éxito.
+2025-03-23 02:00:26,599 - Ejecutando prueba 99/10...
+2025-03-23 02:00:26,616 - Página cargada para prueba 99
+2025-03-23 02:00:27,672 - Datos enviados en la prueba 99
+2025-03-23 02:00:28,673 - Prueba 99 completada con éxito.
+2025-03-23 02:00:28,673 - Ejecutando prueba 100/10...
+2025-03-23 02:00:28,691 - Página cargada para prueba 100
+2025-03-23 02:00:29,740 - Datos enviados en la prueba 100
+2025-03-23 02:00:30,741 - Prueba 100 completada con éxito.
+2025-03-23 02:00:30,741 - Cerrando el navegador...
